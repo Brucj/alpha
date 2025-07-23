@@ -8,4 +8,4 @@ def countdown(seconds):
         time.sleep(1)
         seconds -= 1
     print("Time's up! Stop procrastinating!")
-countdown(60)  # 10-minute timer
+countdown(60)  # 1-minute timer
