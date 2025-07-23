@@ -7,5 +7,5 @@ def countdown(seconds):
         print(f"Time left: {seconds}s", end="\r")
         time.sleep(1)
         seconds -= 1
-    print("Time's up! Stop procrastinating!")
+    print("Time's up!")
 countdown(60)  # 1-minute timer
