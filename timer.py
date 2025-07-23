@@ -1,6 +1,3 @@
-print('Hello GitHub!')
-print('This is a Python script.')
-print('It is running successfully.')
 import time
 def countdown(seconds):
     while seconds > 0:
