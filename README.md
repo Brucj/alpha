@@ -1,2 +1,2 @@
 # alpha
-learning 
+An ongoing project featuring a timer designed to measure how quickly you can complete a task within a self-set timeframe. Users can customize durations ranging from hours to microseconds. Pausing is disabled, but resetting is allowed. This tool helps sharpen concentration, track personal performance, and identify areas for improvement—ultimately showing when you’ve achieved your target time
