@@ -24,9 +24,9 @@ def listen_for_reset(reset_event):
         user_input = input("\nType 'reset' to reset the timer: ").strip().lower()
         if user_input == 'reset':
             reset_event.set()
-z
+
 if __name__ == "__main__":
-    try:zz
+    try:
         hours = int(input("Enter hours: ") or 0)
         minutes = int(input("Enter minutes: ") or 0)
         seconds = int(input("Enter seconds: ") or 0)
@@ -43,3 +43,4 @@ if __name__ == "__main__":
         countdown(total_seconds, reset_event)
     except ValueError:
         print("Please enter valid numbers.")
+
